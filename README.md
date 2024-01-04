@@ -18,28 +18,28 @@ ODYSSEY is a cutting-edge website tailored for space enthusiasts, offering an ar
 
 ## Components:
 
-- Community:
+- ### Community:
   The community section is located at the bottom of the page and includes a forum where users can discuss space exploration and space technology. The forum is divided into different categories, such as astronomy, astrophysics, and space exploration.
   
-- Join Community:
+-  ### Join Community:
   This highlights the purpose of the component, the intended audience, the call to action (subscription), and the overall invitation to join a community passionate about cosmic exploration. Adjust or expand the content as needed to align with your specific context or website layout.
   
-- Footer:
+- ### Footer:
   The footer includes links to the ODYSSEY social media pages, as well as a copyright notice and a privacy policy
   
   ![Screenshot 2024-01-03 105826](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/3479da3a-2f13-42b5-9bd9-c8c1034cab7d)
   
-- Icons Container:
+- ### Icons Container:
   The provided code defines an IconsContainer component in React, which displays a collection of logos/images inside a `<div>` with the class name "icons-container".
   
   ![Screenshot 2024-01-03 121938](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/03da09c4-0858-4256-8f93-382e74e640ed)
 
-- Navbar:
+- ### Navbar:
 •	The navigation menu includes links to the following pages: Home, News, Articles, Resources, Forum, and About Us.
 •	The navbar is located at the top of the page and includes the ODYSSEY logo, a search bar, and a navigation menu
 •	The navbar is located at the top of the page and includes the ODYSSEY logo, a search bar, and a navigation menu.
 
-- Top body:
+- ### Top body:
 The Top Body React component is a captivating webpage section designed to evoke fascination for space exploration. It features:
 
 -> Header: Unveiling the Wonders of the Universe
@@ -52,7 +52,7 @@ The Top Body React component is a captivating webpage section designed to evoke 
   
 ![Screenshot 2024-01-03 104238](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/c3dc1452-0309-4980-afa8-294b9535525b)
 
-- Resources:
+- ### Resources:
 The Resources component is designed to showcase diverse educational materials in space science, fostering accessibility. It aims to disseminate knowledge, catering to a wide audience fascinated by astronomy and cosmic exploration.
 
 ![Screenshot 2024-01-03 105915](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/5c542831-5351-441f-b858-a73cccf34d85)
@@ -63,13 +63,13 @@ The Resources component is designed to showcase diverse educational materials in
 React, a powerful JavaScript library, forms the backbone of our website's frontend, enabling dynamic and interactive user interfaces.
 Leveraging React technology, our project ensures seamless rendering of content, enhancing performance across various devices and browsers.
 
-- HTML Structure:
+- #### HTML Structure:
 The "home-page" class organizes HTML content into sections: Header introduces with text and image, Main Content subdivides with diverse elements, and uses semantic HTML tags for structure and accessibility. Media query ensures responsive design for screens up to 600 pixels wide, while alt attributes are employed for images, enhancing accessibility for users with assistive technologies.
 
-- CSS Styling:
+- #### CSS Styling:
 The webpage employs diverse background colors, strategic element positioning, and sizing, along with box shadows and border-radius for depth and modern aesthetics. Thoughtfully styled fonts, sizes, and colors enhance readability and sophistication. Responsive design adjustments, including a media query for screens under 600 pixels wide, ensure user-friendly and visually appealing adaptability across devices.
 
-- JavaScript:
+- #### JavaScript:
 JavaScript is a versatile scripting language used for web development, enabling dynamic and interactive content creation, manipulation of webpage elements, and functionality enhancement.
 
 ## Code Audit:
