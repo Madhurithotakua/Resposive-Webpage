@@ -105,5 +105,6 @@ The webpage exhibits responsive design, adapting seamlessly across devices due t
  *Senior Developer* - K.Keerthi   *Junior Devloper* - T.Madhuri
 
 <p align="center">
-  <img src="![th](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/4ea711f9-80ca-4059-8f3b-2a1b391c41fb)" alt="Image" />
+
+  <img src="![th](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/b37f7f6c-34d8-454a-ad06-8096103e71a5)" alt="Image" />
 </p>
