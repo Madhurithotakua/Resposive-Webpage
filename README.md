@@ -101,4 +101,9 @@ The webpage exhibits responsive design, adapting seamlessly across devices due t
 
 -	*The ODYSSEY website appears to be a well-designed and informative resource for space enthusiasts of all ages and backgrounds. The website features a clean and modern design, easy-to-use navigation, and a wealth of content about space science and technology*. 
 -	*Overall, ODYSSEY's dynamic platform invites exploration, discovery, and community engagement, making it a go-to destination for all space enthusiasts seeking to expand their knowledge and share their passion.*
- 
+
+ *Senior Developer* - K.Keerthi   *Junior Devloper* - T.Madhuri
+
+<p align="center">
+  <img src="![th](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/4ea711f9-80ca-4059-8f3b-2a1b391c41fb)" alt="Image" />
+</p>
