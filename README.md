@@ -1,5 +1,5 @@
 # KHub_Practice Task 4: Resposive-Webpage
-   - ODYSSEY: Explore Space with a Responsive React-Powered Web Experience
+   - **ODYSSEY: Explore Space with a Responsive React-Powered Web Experience**
      
 ## Table of Contents
 - Introduction
@@ -27,12 +27,14 @@ ODYSSEY is a cutting-edge website tailored for space enthusiasts, offering an ar
   
 - Footer:
   The footer includes links to the ODYSSEY social media pages, as well as a copyright notice and a privacy policy
+  
   ![Screenshot 2024-01-03 105826](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/3479da3a-2f13-42b5-9bd9-c8c1034cab7d)
   
 - Icons Container:
   The provided code defines an IconsContainer component in React, which displays a collection of logos/images inside a `<div>` with the class name "icons-container".
-  ![Screenshot 2024-01-03 105850](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/d5ed587b-4983-4a79-b299-f3b4098ca61b)
   
+  ![Screenshot 2024-01-03 121938](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/03da09c4-0858-4256-8f93-382e74e640ed)
+
 - Navbar:
 •	The navigation menu includes links to the following pages: Home, News, Articles, Resources, Forum, and About Us.
 •	The navbar is located at the top of the page and includes the ODYSSEY logo, a search bar, and a navigation menu
@@ -40,10 +42,15 @@ ODYSSEY is a cutting-edge website tailored for space enthusiasts, offering an ar
 
 - Top body:
 The Top Body React component is a captivating webpage section designed to evoke fascination for space exploration. It features:
+
 -> Header: Unveiling the Wonders of the Universe
+
 -> Images:  Astronaut, space-related visuals, and a time bar.
+
 -> Content:  Mission statement inspiring passion for space exploration.
+
 -> Buttons: "Get Started" and "Watch the Video" for engagement.
+  
 ![Screenshot 2024-01-03 104238](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/c3dc1452-0309-4980-afa8-294b9535525b)
 
 - Resources:
@@ -66,6 +73,7 @@ The webpage employs diverse background colors, strategic element positioning, an
 JavaScript is a versatile scripting language used for web development, enabling dynamic and interactive content creation, manipulation of webpage elements, and functionality enhancement.
 
 ## Code Audit:
+
 ![Screenshot 2024-01-03 104708](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/a2fc93a7-73d6-47c3-9fe6-528e2b6da41b)
 
 1. Code Structure:
@@ -79,15 +87,18 @@ JavaScript is a versatile scripting language used for web development, enabling 
 The webpage exhibits responsive design, adapting seamlessly across devices due to well-organized code. Its usability, aided by clear information hierarchy and functional components like the search bar and news cards, remains consistent and easily accessible on various screen sizes, enhancing the experience for users across devices.
 - Images:
   The webpage design maximizes external images for logos, emphasizing brand identity and recognition in the header. Background images from external URLs create immersive sections, enhancing visual appeal and user experience. Additionally, strategically placed external images serve as decorative elements, elevating the overall aesthetic and information delivery.
+  
 *Laptop view:*
 ![Screenshot 2024-01-03 110220](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/4c331cb6-02b6-47a1-b10e-ca95892cc0fd)
+
 *Tab view:*
 ![Screenshot 2024-01-03 110339](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/490a30f8-4bef-4cbf-b7b0-4439026fa58e)
+
 *Mobile view:*
 ![Screenshot 2024-01-03 110105](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/31a0d0b4-3d79-41d7-8966-dc4b7e1b9ea2)
 
 ## Conclusion:
 
-	The ODYSSEY website appears to be a well-designed and informative resource for space enthusiasts of all ages and backgrounds. The website features a clean and modern design, easy-to-use navigation, and a wealth of content about space science and technology. 
-	Overall, ODYSSEY's dynamic platform invites exploration, discovery, and community engagement, making it a go-to destination for all space enthusiasts seeking to expand their knowledge and share their passion. 
+-	*The ODYSSEY website appears to be a well-designed and informative resource for space enthusiasts of all ages and backgrounds. The website features a clean and modern design, easy-to-use navigation, and a wealth of content about space science and technology*. 
+-	*Overall, ODYSSEY's dynamic platform invites exploration, discovery, and community engagement, making it a go-to destination for all space enthusiasts seeking to expand their knowledge and share their passion.*
  
