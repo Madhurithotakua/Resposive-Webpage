@@ -106,5 +106,5 @@ The webpage exhibits responsive design, adapting seamlessly across devices due t
 
 <p align="center">
 
-  <img src="![th](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/b37f7f6c-34d8-454a-ad06-8096103e71a5)" alt="Image" />
+  <img src="[![th](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/b37f7f6c-34d8-454a-ad06-8096103e71a5).jpg](https://tse1.mm.bing.net/th?id=OIP.VKiuaCydiCGnkqk-NSqwHgHaFj&pid=Api&P=0&h=180)https://tse1.mm.bing.net/th?id=OIP.VKiuaCydiCGnkqk-NSqwHgHaFj&pid=Api&P=0&h=180" alt="Image" />
 </p>
