@@ -3,7 +3,6 @@
      
 ## Table of Contents
 - Introduction
-- Introduction
 - Folder Structure
 - Components
 - Technologies used
@@ -55,11 +54,12 @@ The Top Body React component is a captivating webpage section designed to evoke 
 
 - Resources:
 The Resources component is designed to showcase diverse educational materials in space science, fostering accessibility. It aims to disseminate knowledge, catering to a wide audience fascinated by astronomy and cosmic exploration.
+
 ![Screenshot 2024-01-03 105915](https://github.com/Madhurithotakua/Resposive-Webpage/assets/104493027/5c542831-5351-441f-b858-a73cccf34d85)
 
 ## Technology used:
 
-**React**:
+'**React**:'
 React, a powerful JavaScript library, forms the backbone of our website's frontend, enabling dynamic and interactive user interfaces.
 Leveraging React technology, our project ensures seamless rendering of content, enhancing performance across various devices and browsers.
 
